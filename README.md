@@ -30,4 +30,4 @@ Obsessed with making things breathe.
 
 <p align="center"><b>Starting all over again.</b></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0C3846&height=90&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B1D26&height=90&section=footer"/>
