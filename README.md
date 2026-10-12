@@ -18,6 +18,7 @@
 
 > `git reset --hard`  
 > *Day one again.*
+
 Obsessed with making things breathe.
 
 ### Stack
